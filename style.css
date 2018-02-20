@@ -1,0 +1,16 @@
+    .jumbotron {
+    background: orange;
+    
+    background: -webkit-linear-gradient(red, orange, yellow);
+    
+    background: -o-linear-gradient(red, orange, yellow);
+    
+    background: -moz-linear-gradient(red, orange, yellow);
+   
+    background: linear-gradient(red, orange, yellow);
+    
+}
+
+body {
+    font-family: 'Jura', sans
+    
